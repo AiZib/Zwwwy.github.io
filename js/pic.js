@@ -1,7 +1,7 @@
 // 模拟项目数据
 const projects = [
   {
-    imgSrc: 'images/pic/1.jpg',
+    imgSrc: '/zwwwymm/images/pic/1.jpg',
   },
   {
     imgSrc: 'images/pic/2.jpg',
